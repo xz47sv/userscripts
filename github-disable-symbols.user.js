@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Github - Disable Symbols
+// @name        Disable Symbols
 // @namespace   https://ash.fail
 // @match       https://github.com/*/*/blob/*
 // @run-at      document-start
@@ -12,5 +12,6 @@
 // @homepageURL https://git.ash.fail/userscripts
 // @supportURL  https://ash.fail/contact.html
 // ==/UserScript==
+// TODO: add base64 icon
 
 localStorage.setItem('codeView.openSymbolsOnClick', 'false')
