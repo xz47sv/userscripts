@@ -1,6 +1,6 @@
 // ==UserScript=={{{
 // @name        Sort Feeds
-// @namespace   Violentmonkey Scripts
+// @namespace   https://ash.fail
 // @match       http://[MINIFLUX_URL_HERE]/feeds
 // @grant       none
 // @version     1.0.0
