@@ -13,3 +13,6 @@ see the explanation at https://greasyfork.org
 -   github-disable-symbols.user.js [[direct
     link](https://git.ash.fail/userscripts/blob/master/github-disable-symbols.user.js)|[greasyfork](https://greasyfork.org/en/scripts/494392-github-disable-symbols)]
     Disables opening symbols on click in the Github code viewer
+-   miniflux-sort-feeds.user.js: Sort https://miniflux.app feeds page
+    alphabetically, since miniflux is self-hosted you'll need to replace
+    `[MINIFLUX_URL_HERE]` in the script with your actual url
